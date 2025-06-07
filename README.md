@@ -15,15 +15,15 @@ This project analyzes trending topics on social media to gain insights into user
   - Sentiment Distribution → `outputs/sentiment_distribution.png`
   - Word Cloud → `outputs/wordcloud.png`
   - Platform Breakdown → `outputs/platform_distribution.png`
-  - Top Hashtags → `outputs/top_hashtags.png`
-    ![alt text]https://github.com/o-zab/FUTURE_DS_01/blob/main/outputs%2FSocial%20Media%20Trend%20Analysis_dashboard.jpg
+  - Top Hashtags → `outputs/top_hashtags.png'
+    ![alt_text](https://github.com/o-zab/FUTURE_DS_01/blob/main/outputs/Social%20Meda%20Trend%20Analysis_dashboard.jpg)
 
 ## Key Insights
 
 1️ Overall Sentiment Trends
 Positive sentiment was the most dominant across the dataset.
 
-Neutral posts followed, often used in informational or event-based content.
+Joy posts followed, then excitement, contentment
 
 Negative sentiment was less frequent but still notable—typically tied to issues like traffic, complaints, or frustration.
 
