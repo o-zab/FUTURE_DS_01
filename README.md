@@ -12,7 +12,7 @@ This project analyzes trending topics on social media to gain insights into user
 
 ## Key Insights
 - Majority of users expressed **positive sentiment** on trending topics.
-- Frequently occurring terms include **AI, tech, climate, and economy**.
+- Frequently occurring terms include New, Life, Feeling.
 - Word cloud and sentiment distribution help visualize market shifts.
 
 ## 📦 Exports
